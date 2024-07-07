@@ -8,6 +8,7 @@ Given a vending machine information with the prices of various items, weights of
 
 # Task-1:
 python optimize_task_1.py <the_total_moeny_available>
+<br><\n>
 python optimize_task_1.py 3
 
 Solution:
