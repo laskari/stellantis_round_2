@@ -1,7 +1,6 @@
 import pandas as pd
 import argparse
 
-
 def optimize_vending_machine(prices, weights, total_available):
     n = len(prices)
     dp = {0 : (0, [])}
