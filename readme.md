@@ -8,7 +8,8 @@ Given a vending machine information with the prices of various items, weights of
 
 # Task-1:
 python optimize_task_1.py <the_total_moeny_available>
-<br><\n>
+<br>
+<br>
 python optimize_task_1.py 3
 
 Solution:
@@ -17,11 +18,17 @@ Solution:
 # Task-2:
 python optimize_task_2.py --one-dollar-coins 3 --half-dollar-coins 2 --twenty-cent-coins 5 --five-cent-coins 10
 
+<br>
+<br>
+
 Solution:
 {'Items Retrieved': ['Soda', 'Candy', 'Water', 'Energy Drink'], 'Total Cost': 5.25, 'Leftover Money': 0.25, 'Total Weight': 1300}
 
 # Task-3:
 python optimize_task_3c.py friends_info.json
+
+<br>
+<br>
 
 Solution:
 {
