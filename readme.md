@@ -13,6 +13,7 @@ python optimize_task_1.py <the_total_moeny_available>
 python optimize_task_1.py 3
 
 Solution:
+
 {'Items Retreived': ['Water', 'Energy Drink'], 'Total Cost': 3.0, 'Leftover Money': 0.0, 'Total Weight': 900}
 
 # Task-2:
@@ -22,15 +23,16 @@ python optimize_task_2.py --one-dollar-coins 3 --half-dollar-coins 2 --twenty-ce
 <br>
 
 Solution:
+
 {'Items Retrieved': ['Soda', 'Candy', 'Water', 'Energy Drink'], 'Total Cost': 5.25, 'Leftover Money': 0.25, 'Total Weight': 1300}
 
 # Task-3:
 python optimize_task_3c.py friends_info.json
 
 <br>
-<br>
 
 Solution:
+<br>
 {
     "friend1": {
         "Items Retrieved": [
